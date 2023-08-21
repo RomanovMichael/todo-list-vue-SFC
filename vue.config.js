@@ -1,5 +1,3 @@
-const { defineConfig } = require('@vue/cli-service')
-
-module.exports = defineConfig( {
-    publicPath: `/todo-list-vue-SFC/`
-})
+module.exports = {
+    publicPath: `/todo-list-vue-SFC/`,
+}
